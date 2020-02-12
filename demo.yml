@@ -3,3 +3,4 @@
 - name: test
 - name: prd
 - name: master
+- name: non-prd
